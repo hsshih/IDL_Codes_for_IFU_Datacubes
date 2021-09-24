@@ -7,4 +7,4 @@ Process and fit models to data cubes from Gemini GMOS and UH88 SNIFS Integral Fi
 - Fit models to emission lines  
 - Produce velocity maps
 
-Results published in the Astrophysical Journal papers [Ionized Outflows from Compact Steep Spectrum Sources](https://arxiv.org/pdf/1306.5237.pdf) and [The Three Dimensional Properties and Energetics of Radio Jet Driven Outflows](https://arxiv.org/pdf/1406.5528.pdf).
+Results published in The Astrophysical Journal papers [Ionized Outflows from Compact Steep Spectrum Sources](https://arxiv.org/pdf/1306.5237.pdf) and [The Three Dimensional Properties and Energetics of Radio Jet Driven Outflows](https://arxiv.org/pdf/1406.5528.pdf).
